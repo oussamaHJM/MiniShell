@@ -1,0 +1,10 @@
+Ce projet à était realisé par Oussama EL-HAJJAM et Meryem ALAOUI dans le cadre des projet de l'Université de Picardie Judles Verne Amiens
+Le minishell permet d'executer les commandes internes et externe du shell Linux
+Fonctionnalité: 
+	-Auto complete avec a touche tabulation.
+	-Gestion d'historique des commandes à l'aide de la bibliothéque readline.h.
+	*Remarque: pour pouvoir utilisé l'historique et l'autocomplete des commandes et fichiers,
+	il faut obligatoirement installer la bibliothèque readline.h, et compiler avec leflag lreadline.
+	-Gestion des differentes redirection des resultats des commandes (dans les fichiers etc...)
+	-Deplacement dans les repertoires.
+	-gesion des jobs et pas complet.
